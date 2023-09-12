@@ -1,4 +1,4 @@
-<img width="123" alt="Screenshot 2023-09-12 161951" src="https://github.com/Eirdw/kryptokhat/assets/96238112/0ae0b4c7-027c-48c0-9afb-e82ad5338896">
+<img width="123" alt="Screenshot 2023-09-12 161951" src="https://github.com/Eirdw/kryptokhat/assets/96238112/5bd87f6e-ecda-4124-8e46-284f0e34d108">
 
 Cloning the repository
 
